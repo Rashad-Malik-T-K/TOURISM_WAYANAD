@@ -30,11 +30,13 @@
                                 <th class="border border-gray-300 px-4 py-2">ID</th>
                                 <th class="border border-gray-300 px-4 py-2">Title</th>
                                 <th class="border border-gray-300 px-4 py-2">Body</th>
-                                <th class="border border-gray-300 px-4 py-2">Image</th>
+                                <th class="border border-gray-300 px-4 py-2">Date</th>
                                 <th class="border border-gray-300 px-4 py-2">Edit</th>
                                 @if(Auth::user()->level == 1)
-                                    <th class="border border-gray-300 px-4 py-2">Delete</th>
+                                    <th class="border border-gray-300 px-4 py-2">Person</th>
                                 @endif
+                                <th class="border border-gray-300 px-4 py-2">kid</th>
+                                <th class="border border-gray-300 px-4 py-2">Special Request</th>
                             </tr>
                         </thead>
                         <tbody>
