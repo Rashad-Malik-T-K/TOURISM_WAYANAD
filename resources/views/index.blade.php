@@ -683,7 +683,7 @@
                     <h1 class="mb-0">Awesome Restaurants</h1>
                 </div>
                 <div class="packages-carousel owl-carousel">
-                    
+
                 @foreach ($restaurants as $restaurant)
                     <div class="packages-item">
                         <div class="packages-img">
@@ -723,7 +723,7 @@
                         </div>
                     </div>
                 @endforeach
-                    
+
                 </div>
             </div>
         </div>
@@ -1080,17 +1080,17 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating date">
-                                        <input 
-                                            type="text" 
-                                            class="form-control bg-white border-0" 
-                                            id="datetime" 
-                                            name="date" 
-                                            placeholder="Date & Time" 
+                                        <input
+                                            type="text"
+                                            class="form-control bg-white border-0"
+                                            id="datetime"
+                                            name="date"
+                                            placeholder="Date & Time"
                                             required>
                                         <label for="datetime">Date & Time</label>
                                     </div>
                                 </div>
-                                
+
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="select1" name="destination" required>
@@ -1163,8 +1163,8 @@
                             </div>
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
-                                    <h4 class="mt-3">Full Name</h4>
-                                    <p class="mb-0">Designation</p>
+                                    <h4 class="mt-3">Ibrahim A.Mahamat</h4>
+                                    <p class="mb-0">Delhi Universuty</p>
                                 </div>
                             </div>
                         </div>
@@ -1184,8 +1184,8 @@
                             </div>
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
-                                    <h4 class="mt-3">Full Name</h4>
-                                    <p class="mb-0">Designation</p>
+                                    <h4 class="mt-3">Rashad malik TK</h4>
+                                    <p class="mb-0">Delhi Universuty</p>
                                 </div>
                             </div>
                         </div>
@@ -1205,7 +1205,7 @@
                             </div>
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
-                                    <h4 class="mt-3">Full Name</h4>
+                                    <h4 class="mt-3">Himanshu </h4>
                                     <p class="mb-0">Designation</p>
                                 </div>
                             </div>
