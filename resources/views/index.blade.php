@@ -6,6 +6,11 @@
 
 @endsection
 @section('content')
+<!-- Include Flatpickr CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+<!-- Include Flatpickr JS -->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
  <!-- About Start -->
  <div id="about" class="container-fluid about py-5">
             <div class="container py-5">
@@ -1074,11 +1079,18 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="form-floating date" id="date3" data-target-input="nearest">
-                                        <input type="text" class="form-control bg-white border-0" id="datetime" name="date" placeholder="Date & Time" required>
+                                    <div class="form-floating date">
+                                        <input 
+                                            type="text" 
+                                            class="form-control bg-white border-0" 
+                                            id="datetime" 
+                                            name="date" 
+                                            placeholder="Date & Time" 
+                                            required>
                                         <label for="datetime">Date & Time</label>
                                     </div>
                                 </div>
+                                
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="select1" name="destination" required>
@@ -1381,4 +1393,12 @@
             </div>
         </div>
         <!-- Subscribe End -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                flatpickr("#datetime", {
+                    enableTime: true, // Enables time selection
+                    dateFormat: "Y-m-d H:i", // Formats the date as YYYY-MM-DD HH:mm
+                });
+            });
+        </script>
 @endsection
