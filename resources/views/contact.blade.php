@@ -19,20 +19,22 @@
                             <div class="text-center mb-4">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
                                 <h4 class="text-primary"><Address></Address></h4>
-                                <p class="mb-0">123 ranking Street, <br> New York, USA</p>
+                                <p class="mb-0"> Wayanad Street, <br> KERALA, INDIA</p>
                             </div>
                             <div class="text-center mb-4">
                                 <i class="fa fa-phone-alt fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Mobile</h4>
-                                <p class="mb-0">+012 345 67890</p>
-                                <p class="mb-0">+012 345 67890</p>
+                                <p class="mb-0">+91 8448 9393 14</p>
+                                <p class="mb-0">+91 9778 2322 51</p>
+                                <p class="mb-0">+91 9026 7831 73 </p>
                             </div>
-                           
+
                             <div class="text-center">
                                 <i class="fa fa-envelope-open fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Email</h4>
-                                <p class="mb-0">info@example.com</p>
-                                <p class="mb-0">info@example.com</p>
+                                <p class="mb-0">ibrahim.mahamat@iic.ac.in</p>
+                                <p class="mb-0">rashadmaliktk2251@gmail.com</p>
+                                <p class="mb-0">ibrahim.mahamat@iic.ac.in</p>
                             </div>
                         </div>
                     </div>
@@ -72,11 +74,15 @@
                         </form>
                     </div>
                     <div class="col-12">
-                        <div class="rounded">
-                            <iframe class="rounded w-100" 
-                            style="height: 450px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
-                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <div class="rounded">
+                            <iframe class="rounded w-100"
+                            style="height: 450px;"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15678.404780353634!2d76.06102209159434!3d11.685394956748128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba673cbf27c8f65%3A0xb899a622f8a3c727!2sWayanad%2C%20Kerala%2C%20India!5e0!3m2!1sen!2sin!4v1694259649153!5m2!1sen!2sin"
+                            loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                            </iframe>
                         </div>
+                    </div>
+
                     </div>
                 </div>
             </div>
