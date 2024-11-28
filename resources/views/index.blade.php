@@ -318,7 +318,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">Los angelas</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -395,7 +395,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -408,7 +408,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -425,7 +425,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -438,7 +438,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -455,7 +455,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -468,7 +468,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -746,7 +746,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="d-flex py-2 mx-3 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-2">
-                            <span class="text-dark" style="width: 150px;">World tour</span>
+                            <span class="text-dark" style="width: 150px;">Wayanad</span>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -773,7 +773,7 @@
                                     <img src="img/gallery-1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -787,7 +787,7 @@
                                     <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -801,7 +801,7 @@
                                     <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -815,7 +815,7 @@
                                     <img src="img/gallery-4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -829,7 +829,7 @@
                                     <img src="img/gallery-5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -843,7 +843,7 @@
                                     <img src="img/gallery-6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -857,7 +857,7 @@
                                     <img src="img/gallery-7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -871,7 +871,7 @@
                                     <img src="img/gallery-8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -885,7 +885,7 @@
                                     <img src="img/gallery-9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -899,7 +899,7 @@
                                     <img src="img/gallery-10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -917,7 +917,7 @@
                                     <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -931,7 +931,7 @@
                                     <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -949,7 +949,7 @@
                                     <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -963,7 +963,7 @@
                                     <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -981,7 +981,7 @@
                                     <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -995,7 +995,7 @@
                                     <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -1013,7 +1013,7 @@
                                     <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
@@ -1027,7 +1027,7 @@
                                     <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Wayanad</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
