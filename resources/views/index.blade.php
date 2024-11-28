@@ -28,22 +28,22 @@
                         <p class="mb-4">Escape to Wayanad, Kerala’s green paradise, where misty hills and lush landscapes await. Explore enchanting spots like Edakkal Caves, Chembra Peak, and serene waterfalls. Immerse yourself in rich tribal heritage, wildlife safaris, and breathtaking adventures. Experience the perfect blend of nature, culture, and tranquility in Wayanad!</p>
                         <div class="row gy-2 gx-4 mb-4">
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>First Class Flights</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>Valley</p>
                             </div>
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>Handpicked Hotels</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>View points</p>
                             </div>
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>5 Star Accommodations</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>off-Road</p>
                             </div>
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>Latest Model Vehicles</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>trekking</p>
                             </div>
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>150 Premium City Tours</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>Resorts</p>
                             </div>
                             <div class="col-sm-6">
-                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>24/7 Service</p>
+                                <p class="mb-0"><i class="fa fa-arrow-right me-2" style="color: #137b18"></i>Restaurants</p>
                             </div>
                         </div>
                         <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="">Read More</a>
@@ -66,7 +66,7 @@
                             <div class="col-12">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
-                                        <h5 class="mb-4">WorldWide Tours</h5>
+                                        <h5 class="mb-4">Wayanad Tours</h5>
                                         <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
                                         </p>
                                     </div>
@@ -78,7 +78,7 @@
                             <div class="col-12">
                                 <div class="service-content-inner d-flex align-items-center  bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
-                                        <h5 class="mb-4">Hotel Reservation</h5>
+                                        <h5 class="mb-4">Resort Booking</h5>
                                         <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
                                         </p>
                                     </div>
@@ -121,7 +121,7 @@
                                         <i class="fa fa-globe fa-4x " style="color: #137b18"></i>
                                     </div>
                                     <div class="service-content">
-                                        <h5 class="mb-4">WorldWide Tours</h5>
+                                        <h5 class="mb-4">Wayanad Tours</h5>
                                         <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
                                         </p>
                                     </div>
@@ -133,7 +133,7 @@
                                         <i class="fa fa-hotel fa-4x " style="color: #137b18"></i>
                                     </div>
                                     <div class="service-content">
-                                        <h5 class="mb-4">Hotel Reservation</h5>
+                                        <h5 class="mb-4">Restaurant Reservation</h5>
                                         <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
                                         </p>
                                     </div>
