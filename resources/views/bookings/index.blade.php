@@ -31,7 +31,7 @@
                                 <th class="border border-gray-300 px-4 py-2">Title</th>
                                 <th class="border border-gray-300 px-4 py-2">Body</th>
                                 <th class="border border-gray-300 px-4 py-2">Date</th>
-                                <th class="border border-gray-300 px-4 py-2">Edit</th>
+                                <th class="border border-gray-300 px-4 py-2">Place</th>
                                 @if(Auth::user()->level == 1)
                                     <th class="border border-gray-300 px-4 py-2">Person</th>
                                 @endif
