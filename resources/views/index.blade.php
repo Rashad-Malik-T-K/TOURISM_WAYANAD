@@ -238,7 +238,7 @@
                                                 <img class="img-fluid rounded w-100" src="img/destination-2.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                                    <h4 class="text-white mb-2 mt-3">En Ooru</h4>
+                                                    <h4 class="text-white mb-2 mt-3">Edakkal Caves</h4>
                                                     <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                                 </div>
                                                 <div class="search-icon">
@@ -251,7 +251,7 @@
                                                 <img class="img-fluid rounded w-100" src="img/destination-7.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                                    <h4 class="text-white mb-2 mt-3">Los angelas</h4>
+                                                    <h4 class="text-white mb-2 mt-3">Wildlife Sanctuary</h4>
                                                     <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                                 </div>
                                                 <div class="search-icon">
@@ -264,7 +264,7 @@
                                                 <img class="img-fluid rounded w-100" src="img/destination-8.jpg" alt="">
                                                 <div class="destination-overlay p-4">
                                                     <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                                    <h4 class="text-white mb-2 mt-3">Los angelas</h4>
+                                                    <h4 class="text-white mb-2 mt-3">Wildlife Sanctuary</h4>
                                                     <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                                 </div>
                                                 <div class="search-icon">
@@ -279,7 +279,7 @@
                                         <img class="img-fluid rounded w-100 h-100" src="img/destination-9.jpg" style="object-fit: cover; min-height: 300px;" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Kuruvadweep</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -292,7 +292,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-4.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">Los angelas</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -305,7 +305,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">Los angelas</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -335,7 +335,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -348,7 +348,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -365,7 +365,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-5.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
@@ -378,7 +378,7 @@
                                         <img class="img-fluid rounded w-100" src="img/destination-6.jpg" alt="">
                                         <div class="destination-overlay p-4">
                                             <a href="#" class="btn btn-primary text-white rounded-pill border py-2 px-3">20 Photos</a>
-                                            <h4 class="text-white mb-2 mt-3">San francisco</h4>
+                                            <h4 class="text-white mb-2 mt-3">Pookode Lake</h4>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                         <div class="search-icon">
