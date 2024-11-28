@@ -1294,7 +1294,7 @@
                 <div class="testimonial-carousel owl-carousel">
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">I recently used this website to plan my vacation, and it was a fantastic experience! The user interface is clean and easy to navigate, with a wide range of options for flights, hotels, and activities. I especially loved the personalized recommendations based on my preferences. The blog section with travel tips and destination guides was super helpful. I’ll definitely use this platform again for my future trips!
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
@@ -1314,7 +1314,7 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">This site offers some of the best travel deals I’ve seen online. I booked a full vacation package, including flights, accommodation, and sightseeing tours, at a much lower cost than other platforms. The booking process was smooth and transparent, with no hidden fees. My only suggestion is to improve the customer support response time, but overall, I’m very satisfied!
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
@@ -1334,7 +1334,7 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">The website has a wealth of information about destinations, including attractions, reviews, and itineraries. However, the search filters could be more intuitive. I found it hard to narrow down my options when looking for specific types of stays, like eco-friendly accommodations or family-friendly resorts. With better filters, this site could be a go-to for travelers!
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
@@ -1354,7 +1354,7 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">I had to make last-minute travel arrangements, and this website saved the day! It showed me the best deals on flights and hotels, even on short notice. The app version is equally amazing, letting me book and manage my plans on the go. I also appreciated the live chat support for answering my questions quickly. Highly recommended for spontaneous travele
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
